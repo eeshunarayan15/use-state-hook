@@ -12,3 +12,7 @@ state koi bhi data ho sakta hai , jaise ke score =0
 const [score,setScore]=useState(0);
 
 maan lete hai aapke game mai score by default 0 se shuru hota hai and future mai wo score badhega by 10 aur apko page pe show bhi karna hai jab score badh ,to use case mein aapka score varibale ek state menin rakhna jaruri hai ,kyunki react sirf use change karta hia jo state mein hota hai
+
+
+To use react icons use command from react icons website it is located at 
+bottom of website : -npm install react-icons --save
